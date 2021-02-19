@@ -13,13 +13,6 @@
 -----------
 OpenSpug组织：https://github.com/openspug
 
-
-#### 开源运维平台交流群
-----------------------------
-QQ群号: 783951751
-
-![image](http://image.qbangmang.com/spug.png)
-
 #### License & Copyright
 ----------------------------
 [MIT](https://opensource.org/licenses/MIT)
